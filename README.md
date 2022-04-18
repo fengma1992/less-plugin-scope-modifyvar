@@ -3,8 +3,10 @@
 ## Usage
 
 1. Installing 
+
    Using npm:
    `npm install less-plugin-scope-modifyvar`
+
    Using yarn:
    `yarn add less-plugin-scope-modifyvar`
 
