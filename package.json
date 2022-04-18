@@ -1,0 +1,26 @@
+{
+  "name": "less-plugin-scope-modifyvar",
+  "version": "1.0.0",
+  "description": "A less plugin to modify vars in custom scope",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengma1992/less-plugin-scope-modifyvar.git"
+  },
+  "author": "dujianhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengma1992/less-plugin-scope-modifyvar/issues"
+  },
+  "homepage": "https://github.com/fengma1992/less-plugin-scope-modifyvar#readme",
+  "keywords": [
+    "less plugins",
+    "modify vars"
+  ]
+}
