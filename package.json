@@ -1,6 +1,6 @@
 {
   "name": "less-plugin-scope-modifyvar",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A less plugin to modify vars in custom scope",
   "main": "lib/index.js",
   "directories": {
